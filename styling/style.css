@@ -1,0 +1,22 @@
+h1{
+    color: aquamarine;
+    background-color: black;
+}
+
+h2{
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-family: cursive 
+}
+
+h3{
+    background-color: rgb(141, 230, 230);
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+    color: white;
+}
